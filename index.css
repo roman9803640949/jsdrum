@@ -8,13 +8,7 @@
     flex-wrap: wrap;
     background-color: aquamarine;
 }
-/* 
-.drum__container{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    width: 100%;
-} */
+
 .kbd{
     text-align:center;
     margin-bottom: 0.5rem;
